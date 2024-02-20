@@ -20,9 +20,7 @@ Este projeto Java implementa uma calculadora de áreas de triângulos, utilizand
 - Cálculo de Áreas: O programa utiliza a fórmula de Herão para calcular as áreas dos triângulos.
 - Comparação de Áreas: Compara as áreas dos Triângulos X e Y para determinar qual é o maior.
 
-## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, correções de bugs ou adicionar funcionalidades adicionais.
 
 
 
